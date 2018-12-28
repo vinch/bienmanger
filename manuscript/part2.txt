@@ -146,7 +146,7 @@ Une protéine est une macromolécule (une très grosse molécule) composée d'ac
 
 [^fn37]: Il n'est absolument pas indispensable de comprendre ce qu'est une liaison peptidique dans le cadre de ce livre, mais si cela vous intéresse vraiment, sachez qu'une liaison peptidique est une liaison covalente qui s'établit entre la fonction carboxyle portée par le carbone α d'un acide aminé et la fonction amine portée par le carbone α de l'acide aminé suivant dans la chaîne peptidique. La liaison peptidique correspond à une fonction amide dans le cas particulier de certaines molécules biologiques. La liaison peptidique est une liaison plane et rigide.
 
-[^fn38] Chez l'enfant, on peut également ajouter l'arginine comme acide aminé essentiel (ce qui en fait 10 au total).
+[^fn38]: Chez l'enfant, on peut également ajouter l'arginine comme acide aminé essentiel (ce qui en fait 10 au total).
 
 Les protéines sont les briques de l’organisme. Elles constituent notre enveloppe : les os, les muscles, les cheveux, les ongles, la peau, mais aussi nos messagers internes tels que les hormones, les enzymes ou les anticorps du système immunitaire, qui nous défendent contre les infections.
 
